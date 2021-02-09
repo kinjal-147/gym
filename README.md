@@ -14,4 +14,4 @@
 <img src="https://github.com/kinjal-147/gym/blob/master/images/SS9.PNG" width="900" height="400">
 <img src="https://github.com/kinjal-147/gym/blob/master/images/SS10.PNG" width="900" height="400">
 
-<h2> Thank You </h2>
+<h1> Thank You </h1>
