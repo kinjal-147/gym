@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>FITNESS PALACE</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- MATERIAL DESIGN ICONIC FONT -->
+		<link rel="stylesheet" href="fonts/material-design-iconic-font/css/material-design-iconic-font.min.css">
+		
+		<!-- STYLE CSS -->
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+
+	<body>
+
+		<div class="wrapper">
+			<div class="inner">
+				<div class="image-holder">
+					<img src="images/registration-form-6.jpg" alt="Image">
+				</div>
+				<form action="#" name="membership_form" method="post" OnSubmit="validateForm()" autocomplete="off">
+					<h3>|| &nbsp; Membership &nbsp; Form &nbsp; ||</h3>
+					<div class="form-row">
+						<input type="text" id="name" class="form-control" placeholder="Name" required />
+						<input type="email" id="mail" class="form-control" placeholder="Mail" required />
+
+					</div>
+					<div class="form-row">
+						<input type="phone" id="phone" class="form-control" placeholder="Phone" required />
+						<div class="form-holder">
+							<select name="interest" id="interest" class="form-control">
+								<option value="" disabled selected>Choose Your Interest</option>
+								<option value="loose_weight">Loose Weight</option>
+								<option value="gain_weight">Gain Weight</option>
+								<option value="abs_workout">Abs Workout</option>
+								<option value="build_muscles">Build Muscles</option>
+							</select>
+							<i class="zmdi zmdi-chevron-down"></i>
+						</div>
+					</div>
+					<textarea name="message" id="" placeholder="Message" class="form-control" style="height: 130px;" required></textarea>
+					<button type="submit" onclick="validate()">Submit
+						<i class="zmdi zmdi-long-arrow-right"></i>
+					</button>
+				</form>
+			</div>
+		</div>
+		<script>
+		function validate(){
+			
+			alert("We will call you shortly, Thank you for choosing FITNESS PALACE Gym..!!");
+		
+		}
+		</script>
+	</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</html>
