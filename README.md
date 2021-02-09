@@ -3,11 +3,11 @@
 
 <h2> Website Screenshots : </h2>
 
-<img src="https://github.com/kinjal-147/gym/blob/master/images/SS1.PNG" width="700" height="400">
-<img src="https://github.com/kinjal-147/gym/blob/master/images/SS2.PNG" width="700" height="400">
-<img src="https://github.com/kinjal-147/gym/blob/master/images/SS3.PNG" width="700" height="400">
-<img src="https://github.com/kinjal-147/gym/blob/master/images/SS4.PNG" width="700" height="400">
-<img src="https://github.com/kinjal-147/gym/blob/master/images/SS5.PNG" width="700" height="400">
+<img src="https://github.com/kinjal-147/gym/blob/master/images/SS1.PNG" width="700" height="500">
+<img src="https://github.com/kinjal-147/gym/blob/master/images/SS2.PNG" width="700" height="500">
+<img src="https://github.com/kinjal-147/gym/blob/master/images/SS3.PNG" width="700" height="500">
+<img src="https://github.com/kinjal-147/gym/blob/master/images/SS4.PNG" width="700" height="500">
+<img src="https://github.com/kinjal-147/gym/blob/master/images/SS5.PNG" width="700" height="500">
 <img src="https://github.com/kinjal-147/gym/blob/master/images/SS6.PNG" width="700" height="400">
 <img src="https://github.com/kinjal-147/gym/blob/master/images/SS7.PNG" width="700" height="400">
 <img src="https://github.com/kinjal-147/gym/blob/master/images/SS8.PNG" width="700" height="400">
